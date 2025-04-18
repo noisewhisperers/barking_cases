@@ -1,24 +1,24 @@
-# Noise Whisperers: Dog Barking Policy Database
+# Noise Whisperers: Dog Barking Policy and Legal Theories Database
 
-Welcome to **Noise Whisperers**, a global project to collect and verify dog barking policy facts, case law, and ordinances for Wikipedia’s [WikiProject Dog Barking Regulation](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Council/Proposals). We aim to create a neutral, verifiable database of noise-related laws across countries like USA, Germany, and beyond.
+Welcome to **Noise Whisperers**, a global open-source project to collect dog barking case law, policies, and legal theories for Wikipedia’s [WikiProject Dog Barking Regulation](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Council/Proposals). We focus on **FAIR** (Findable, Accessible, Interoperable, Reusable) data, including theories on the **right to quiet** and **right to a loud barking dog**.
 
 ## Mission
-- Build a comprehensive, sourced list of dog barking cases and policies.
-- Support Wikipedia articles with reliable data.
-- Foster global collaboration among legal experts, activists, and community members.
+- Build a sourced database of barking cases, policies, and legal theories.
+- Support Wikipedia with neutral, verifiable content.
+- Engage global contributors (legal experts, activists, pet owners).
 
 ## Structure
-- `cases/[country]/`: Case law and ordinances (e.g., `cases/usa/`, `cases/germany/`).
-- `drafts/`: WikiProject drafts and templates.
-- `policies/`: Statutory laws and regulations (e.g., BGB § 906, municipal codes).
-- `CONTRIBUTING.md`: How to add cases or sources.
-- `Issues`: Suggest cases, sources, or countries.
-- `Discussions`: Brainstorm policies or interpretations.
+- `cases/[country]/`: Case law (e.g., `cases/usa/`, `cases/germany/`).
+- `policies/[country]/`: Statutes and ordinances.
+- `theories/`: Legal theories (e.g., right to quiet, pet ownership rights).
+- `drafts/`: WikiProject drafts.
+- `CONTRIBUTING.md`: Contribution guidelines.
+- `Issues`/[Discussions](https://github.com/noisewhisperers/barking_cases/discussions): Suggest cases, policies, or theories.
 
 ## Get Involved
-- Add a case to `cases/[country]/` via [Issues](https://github.com/noisewhisperers/barking_cases/issues).
-- Suggest sources (e.g., court rulings, journals) or new countries.
-- Join discussions on [GitHub Discussions](https://github.com/noisewhisperers/barking_cases/discussions).
+- Add cases to `cases/[country]/` or theories to `theories/` via [Issues](https://github.com/noisewhisperers/barking_cases/issues).
+- Suggest sources (e.g., [juris.de](https://www.juris.de), [FindLaw](https://www.findlaw.com)).
+- Join discussions on legal theories (e.g., nuisance vs. property rights).
 - Contact us on X (@NoiseWhisperers, #NoiseWhisperers).
 
 *By Noise Whisperers, volunteers for open legal knowledge.*
